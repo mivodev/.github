@@ -35,7 +35,7 @@ MivoDev focuses on creating powerful and intuitive **Network Management Tools**,
 
 | 🏆 GitHub Stats | 🔥 Streak Stats |
 | :---: | :---: |
-| <img src="https://github-readme-stats.dyzulk.com/api?username=mivodev&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8" alt="MivoDev Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mivodev&theme=transparent&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="Streak Stats" /> |
+| <img src="https://github-readme-stats.dyzulk.com/api?username=dyzulk&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8" alt="MivoDev Stats" /> | <img src="https://github-readme-streak-stats.dyzulk.com/?user=dyzulk&theme=transparent&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="Streak Stats" /> | |
 
 <br />
 
