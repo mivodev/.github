@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/img/logo-banner.png" alt="MivoDev Banner" width="100%" />
+  <img src="profile/assets/img/logo-banner.png" alt="MivoDev Banner" width="100%" />
 
   <br />
 
